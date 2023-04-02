@@ -3,12 +3,12 @@ df
 
 elif [$y -lt $y]
 then
-  echo 'first condition'
+  echo 'first conditsdfsfion'
 else
   echo 'no result try again'
   
 git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 
 test comment 12397
-test comment 1234
+test comment 1234sdfsdf
 test comment 123456
