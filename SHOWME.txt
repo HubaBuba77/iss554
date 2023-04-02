@@ -11,3 +11,4 @@ git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -mul
 
 test comment 123
 test comment 1234
+test comment 12345
