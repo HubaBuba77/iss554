@@ -20,7 +20,7 @@ while (true) {
 
 //alert(`Сумма: ${sum}`);
 
-let n = 10;
+let n = 10 + 20;
 
 stopChecking:
 for (i = 2; i <= n; i++) {
